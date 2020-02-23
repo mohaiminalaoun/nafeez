@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b92a5d382aadecf46840ccccbf0279e",
+    "revision": "5b639d2359795f1242067b7b65e59917",
     "url": "/nafeez/index.html"
   },
   {
-    "revision": "c15452908cae161ef44b",
-    "url": "/nafeez/static/css/main.6bf0a109.chunk.css"
+    "revision": "642f66f134889ffd66b8",
+    "url": "/nafeez/static/css/main.8765e8d2.chunk.css"
   },
   {
     "revision": "ab22c56cecbccecebeec",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nafeez/static/js/2.11c5c611.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c15452908cae161ef44b",
-    "url": "/nafeez/static/js/main.410a586d.chunk.js"
+    "revision": "642f66f134889ffd66b8",
+    "url": "/nafeez/static/js/main.ed4ef899.chunk.js"
   },
   {
     "revision": "0e051132760fe6404cf5",

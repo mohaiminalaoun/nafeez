@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nafeez/static/css/main.6bf0a109.chunk.css",
-    "main.js": "/nafeez/static/js/main.410a586d.chunk.js",
-    "main.js.map": "/nafeez/static/js/main.410a586d.chunk.js.map",
+    "main.css": "/nafeez/static/css/main.8765e8d2.chunk.css",
+    "main.js": "/nafeez/static/js/main.ed4ef899.chunk.js",
+    "main.js.map": "/nafeez/static/js/main.ed4ef899.chunk.js.map",
     "runtime-main.js": "/nafeez/static/js/runtime-main.eb0ae124.js",
     "runtime-main.js.map": "/nafeez/static/js/runtime-main.eb0ae124.js.map",
     "static/js/2.11c5c611.chunk.js": "/nafeez/static/js/2.11c5c611.chunk.js",
     "static/js/2.11c5c611.chunk.js.map": "/nafeez/static/js/2.11c5c611.chunk.js.map",
     "index.html": "/nafeez/index.html",
-    "precache-manifest.e6147c37fd120c6c257167d4ee8932de.js": "/nafeez/precache-manifest.e6147c37fd120c6c257167d4ee8932de.js",
+    "precache-manifest.b4061096f1b9a561c46910677a0f18f2.js": "/nafeez/precache-manifest.b4061096f1b9a561c46910677a0f18f2.js",
     "service-worker.js": "/nafeez/service-worker.js",
-    "static/css/main.6bf0a109.chunk.css.map": "/nafeez/static/css/main.6bf0a109.chunk.css.map",
+    "static/css/main.8765e8d2.chunk.css.map": "/nafeez/static/css/main.8765e8d2.chunk.css.map",
     "static/js/2.11c5c611.chunk.js.LICENSE.txt": "/nafeez/static/js/2.11c5c611.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/nafeez/static/media/Roboto-Bold.36b5bab5.ttf",
     "static/media/menu.svg": "/nafeez/static/media/menu.082e978d.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb0ae124.js",
     "static/js/2.11c5c611.chunk.js",
-    "static/css/main.6bf0a109.chunk.css",
-    "static/js/main.410a586d.chunk.js"
+    "static/css/main.8765e8d2.chunk.css",
+    "static/js/main.ed4ef899.chunk.js"
   ]
 }
